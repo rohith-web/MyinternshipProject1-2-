@@ -1,0 +1,112 @@
+.header
+{
+display: flex;
+ margin-left: 40%;
+ background-color: #333;
+ color: #fff;
+ padding: 10px 20px;
+ display: inline-block; 
+ border-radius: 3rem 3rem;
+}
+.new{
+    margin-left: 1rem;
+}
+
+.two{
+    text-decoration: underline;
+ font-weight: bolder;
+ font-size: xx-large;
+ text-shadow:2cm;
+
+}
+
+.three{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 2rem;
+    color:black;
+    font-size:100%;
+}
+
+.five
+ {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 2rem;
+    color:black;
+    font-size:100%;
+}
+.seven
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 2rem;
+    color:black;
+    font-size:100%;
+}
+.four{
+    text-decoration:underline;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.six{
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+body{
+    background-image:url("https://www.theearthsafari.com/upload/1698218719_Forests_of_India_(1)_(1).png");
+    background-size:cover;
+}
+
+.table{
+    align-items:self-start;
+    margin-left: 35%;
+    border-radius: 1rem 1rem;
+    margin-top: 2rem;
+    table-layout: auto;
+    width: 30%;
+    border-color:black;
+    border: 2px solid #333; 
+   
+    background-color: rgba(255, 255, 255, 0.5); /* Adjust the background color and opacity */
+    border-radius: 2rem 2rem;
+    overflow: hidden;
+}
+   
+
+tr {
+    text-decoration: solid;
+    font-weight: bolder;
+    box-sizing: 50%;
+    
+}
+
+button{
+    border-radius: 2rem 2rem;
+    background: transparent;
+}
+button:hover {
+   border-radius: 2rem 2rem;
+   background:#333;
+   color: #fff;
+}
+
+input{
+    border-radius: 2rem 2rem;
+    width:5cm;
+    margin-left: 1rem;
+    padding: 3px;
+
+}
+td{
+    border-radius: 2rem 2rem;
+    border: 2px solid #333; /* Set the border width and color for cells */
+    padding: 7px;
+}
+input:hover{
+    background:#333;
+    color: #5af82a;
+}
+.sp{
+    position: absolute;
+    margin-left: 46.5%;
+}
